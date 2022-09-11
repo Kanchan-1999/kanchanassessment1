@@ -1,0 +1,20 @@
+1.Start
+2.Ask to enter unit name
+3.Ask to enter student count
+4.let counter i=0
+5.Repeat the following steps while(i<marks.length)
+6.ask to enter marks
+7.if((mrks<0)||(mrks>100)) do
+  1.Display enter valid marks between 0 and 100
+8.else do
+  1.Increase the counter i by 1
+9.endif
+10.Display unit name
+11.follow the for loop 
+12.for(j=0;j<marks.length;j++)
+13.Display marks 
+14.Arrays.sort(marks)
+15.Display Highest Marks 
+16.Display Lowest Marks 
+17.Stop
+
